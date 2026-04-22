@@ -1,0 +1,20 @@
+[user]
+	name = Patrick Vollandt
+	email = me@amraleth.dev
+	signingkey = 7582B6CD892EA6F2
+
+[commit]
+	gpgsign = true
+
+[tag]
+	gpgsign = true
+
+[init]
+	defaultBranch = stable
+
+[core]
+	editor = vim
+	quotepath = false
+
+[color]
+	ui = auto
